@@ -1,0 +1,15 @@
+C:\Users\М\OneDrive\Рабочий стол\Homework6\Seminar6_Homework\Sabc\bin\Debug\net6.0\Sabc.exe
+C:\Users\М\OneDrive\Рабочий стол\Homework6\Seminar6_Homework\Sabc\bin\Debug\net6.0\Sabc.deps.json
+C:\Users\М\OneDrive\Рабочий стол\Homework6\Seminar6_Homework\Sabc\bin\Debug\net6.0\Sabc.runtimeconfig.json
+C:\Users\М\OneDrive\Рабочий стол\Homework6\Seminar6_Homework\Sabc\bin\Debug\net6.0\Sabc.dll
+C:\Users\М\OneDrive\Рабочий стол\Homework6\Seminar6_Homework\Sabc\bin\Debug\net6.0\Sabc.pdb
+C:\Users\М\OneDrive\Рабочий стол\Homework6\Seminar6_Homework\Sabc\obj\Debug\net6.0\Sabc.csproj.AssemblyReference.cache
+C:\Users\М\OneDrive\Рабочий стол\Homework6\Seminar6_Homework\Sabc\obj\Debug\net6.0\Sabc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\М\OneDrive\Рабочий стол\Homework6\Seminar6_Homework\Sabc\obj\Debug\net6.0\Sabc.AssemblyInfoInputs.cache
+C:\Users\М\OneDrive\Рабочий стол\Homework6\Seminar6_Homework\Sabc\obj\Debug\net6.0\Sabc.AssemblyInfo.cs
+C:\Users\М\OneDrive\Рабочий стол\Homework6\Seminar6_Homework\Sabc\obj\Debug\net6.0\Sabc.csproj.CoreCompileInputs.cache
+C:\Users\М\OneDrive\Рабочий стол\Homework6\Seminar6_Homework\Sabc\obj\Debug\net6.0\Sabc.dll
+C:\Users\М\OneDrive\Рабочий стол\Homework6\Seminar6_Homework\Sabc\obj\Debug\net6.0\refint\Sabc.dll
+C:\Users\М\OneDrive\Рабочий стол\Homework6\Seminar6_Homework\Sabc\obj\Debug\net6.0\Sabc.pdb
+C:\Users\М\OneDrive\Рабочий стол\Homework6\Seminar6_Homework\Sabc\obj\Debug\net6.0\Sabc.genruntimeconfig.cache
+C:\Users\М\OneDrive\Рабочий стол\Homework6\Seminar6_Homework\Sabc\obj\Debug\net6.0\ref\Sabc.dll
